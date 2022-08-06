@@ -1,3 +1,4 @@
+//function that checks whether a given natural number is prime
 #include <iostream>
 using namespace std;
 

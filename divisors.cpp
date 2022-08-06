@@ -1,3 +1,4 @@
+//a program that displays all the divisors of a given natural number on the screen
 #include<iostream>
 
 using namespace std;

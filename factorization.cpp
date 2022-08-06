@@ -1,3 +1,4 @@
+//a program that displays the prime factorization of a given natural number on the screen
 #include <iostream>
 using namespace std;
 

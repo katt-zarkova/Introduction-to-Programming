@@ -1,3 +1,4 @@
+//variant of Euclid's algorithm with subtraction, function that calculates the quotient of two natural numbers
 #include <iostream>
 using namespace std;
 int myGCD(int a, int b)

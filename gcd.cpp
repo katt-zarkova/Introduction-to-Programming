@@ -1,3 +1,4 @@
+//function that calculates the NOC for two natural numbers
 #include <iostream>
 using namespace std;
 long long gcd(long long int a, long long int b)

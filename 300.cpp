@@ -1,4 +1,4 @@
-//a program that finds all prime numbers from 2 to 300 with Erastothenes' algorithm and displays them on the screen 10 per line
+//a program that finds all prime numbers from 2 to 300 with Erastothenes' algorithm and displays them on the screen 10 per line (needs debuging)
 #include <bitset>
 #include <iostream>
 using namespace std;

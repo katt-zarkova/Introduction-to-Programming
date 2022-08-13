@@ -1,3 +1,4 @@
+//a function that implements fast exponentiation (exponentiation by squaring)
 #include<iostream>
 using namespace std;
 

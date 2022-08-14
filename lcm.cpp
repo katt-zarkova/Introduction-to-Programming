@@ -1,3 +1,4 @@
+// program that finds the least common multiple of two numbers
 #include <iostream>
 using namespace std;
 long long gcd(long long int a, long long int b)
